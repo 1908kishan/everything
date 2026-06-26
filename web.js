@@ -1,4 +1,5 @@
 let menu = document.querySelector("#menu i");
+
 let closer = document.querySelector("#full i");
 
 let tl = gsap.timeline();
